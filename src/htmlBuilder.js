@@ -76,8 +76,8 @@ const generateCardHeader = () => `
 const generateForm = () => `
   <form method="POST" id="encodeForm">
     <div class="form-section">
-      <div class="form-section-title">订阅链接</div>
-      <textarea class="form-control" id="inputTextarea" name="input" required placeholder="vmess://abcd..." rows="3"></textarea>
+      <div class="form-section-title"></div>
+      <textarea class="form-control" id="inputTextarea" name="input" required placeholder="输入需要转换的节点" rows="3"></textarea>
     </div>
 
     <div class="form-check form-switch mb-3">
