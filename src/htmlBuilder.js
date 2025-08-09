@@ -61,11 +61,11 @@ const generateDarkModeToggle = () => `
 </button>
 `;
 
-const generateGithubLink = () => `
-<a href="https://github.com/yixiu001/sublink-worker" target="_blank" rel="noopener noreferrer" class="github-link">
-<i class="fab fa-github"></i>
-</a>
-`;
+// const generateGithubLink = () => `
+// <a href="https://github.com/yixiu001/sublink-worker" target="_blank" rel="noopener noreferrer" class="github-link">
+// <i class="fab fa-github"></i>
+// </a>
+// `;
 
 const generateCardHeader = () => `
   <div class="card-header text-center">
