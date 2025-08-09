@@ -7,3 +7,6 @@ compatibility_flags = ["nodejs_compat"]
 kv_namespaces = [
   { binding = "SUBLINK_KV", id = "10da168e238245d9a8efd327c1adf403" }
 ]
+[observability]
+enabled = true
+head_sampling_rate = 1 # optional. default = 1.
