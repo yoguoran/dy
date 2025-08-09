@@ -59,7 +59,7 @@ export const generateStyles = () => `
   .card {
     // background-color: var(--card-bg);
     background-image: url("https://free.picui.cn/free/2025/08/09/689758c6d2584.png");
-    background-size: cover;
+    background-size: contain;
     border: none;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
