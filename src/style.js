@@ -1,11 +1,11 @@
 export const generateStyles = () => `
   :root {
-    --bg-color: #f0f2f5;
+    // --bg-color: #f0f2f5;
     --text-color: #495057;
     --card-bg: #ffffff;
-    --card-header-bg: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-    --btn-primary-bg: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-    --input-bg: #ffffff;
+    // --card-header-bg: linear-gradient(135deg, #cabcda 0%, #9fbbeb 100%);
+    // --btn-primary-bg: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    --input-bg: rgba(0.0.0.0.1);
     --input-border: #ced4da;
     --input-text: #495057;
     --placeholder-color: #6c757d;
@@ -57,7 +57,9 @@ export const generateStyles = () => `
   }
 
   .card {
-    background-color: var(--card-bg);
+    // background-color: var(--card-bg);
+    background-image: url("https://free.picui.cn/free/2025/08/09/689758c6d2584.png");
+    background-size: cover;
     border: none;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
