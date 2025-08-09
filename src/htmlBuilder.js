@@ -15,10 +15,10 @@ const generateHead = () => `
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="wx:yoguoran">
-    <meta name="keywords" content="果然, 订阅链接, 代理, Xray, SingBox, Clash, V2Ray, 自定义规则, 在线, 订阅转换, 机场订阅, 节点管理, 节点解析">
+    <meta name="description" content="Sublink Worker是一款强大的在线订阅链接转换工具,支持V2Ray/Xray、SingBox、Clash等多种客户端，提供自定义规则和高效转换，帮助您轻松管理和优化代理节点。">
+    <meta name="keywords" content="Sublink, Worker, 订阅链接, 代理, Xray, SingBox, Clash, V2Ray, 自定义规则, 在线, 订阅转换, 机场订阅, 节点管理, 节点解析">
     <title>Sublink Worker - 轻量高效的订阅转换工具 | 支持V2Ray/Xray、SingBox、Clash</title>
-    <meta property="og:title" content="订阅链接转换工具">
+    <meta property="og:title" content="Sublink Worker - 轻量高效的订阅链接转换工具">
     <meta property="og:description" content="强大的在线订阅链接转换工具,支持多种代理协议和自定义规则">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sublink-worker.sageer.me/">
@@ -61,15 +61,15 @@ const generateDarkModeToggle = () => `
 </button>
 `;
 
-// const generateGithubLink = () => `
-// <a href="https://github.com/yixiu001/sublink-worker" target="_blank" rel="noopener noreferrer" class="github-link">
-// <i class="fab fa-github"></i>
-// </a>
-// `;
+const generateGithubLink = () => `
+<a href="https://free.picui.cn/free/2025/06/08/684583e1f1685.png" target="_blank" rel="noopener noreferrer" class="github-link">
+<i class="fab fa-github"></i>
+</a>
+`;
 
 const generateCardHeader = () => `
   <div class="card-header text-center">
-    <h1 class="display-4 mb-0">果然™订阅转换</h1>
+    <h1 class="display-4 mb-0">果然™汉化版</h1>
   </div>
 `;
 
