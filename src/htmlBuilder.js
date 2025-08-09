@@ -69,7 +69,7 @@ const generateGithubLink = () => `
 
 const generateCardHeader = () => `
   <div class="card-header text-center">
-    <h1 class="display-4 mb-0">果然™汉化版</h1>
+    <h1 class="display-4 mb-0">果然™专属订阅转换</h1>
   </div>
 `;
 
