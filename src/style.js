@@ -1,14 +1,14 @@
 export const generateStyles = () => `
   :root {
     // --bg-color: #f0f2f5;
-    --text-color: #495057;
+    --text-color: #ffffff;
     --card-bg: #ffffff;
     // --card-header-bg: linear-gradient(135deg, #cabcda 0%, #9fbbeb 100%);
     // --btn-primary-bg: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
     --input-bg: rgba(0.0.0.0.1);
-    --input-border: #ced4da;
-    --input-text: #495057;
-    --placeholder-color: #6c757d;
+    --input-border: #ffffff;
+    --input-text: #ffffff;
+    --placeholder-color: #ffffff;
     --section-border: rgba(0, 0, 0, 0.1);
     --section-bg: rgba(0, 0, 0, 0.02);
     --select-bg: #ffffff;
