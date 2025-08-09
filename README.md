@@ -1,10 +1,7 @@
 <div align="center">
   <h1>
-     <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/yoguoran/sublink-worker">
-<!--       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/> -->
-      
-    <b>订阅转换器</b>
-    </a>
+     <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/yoguoran/sublink-worker">    
+    <b>订阅转换器</b></a>
   
   
   </h1>
@@ -12,9 +9,9 @@
   <br>
 
   <p>
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/yoguoran/sublink-worker">
+<!--     <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/yoguoran/sublink-worker">
 <!--       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/> -->
       
-    </a>
+    </a> -->
   </p>
 </div>
